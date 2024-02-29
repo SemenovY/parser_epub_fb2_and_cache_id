@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fictionbook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <description>
+    <title-info>
+      <genre>sf</genre>
+      <author>
+        <first-name>Test</first-name>
+        <last-name>Author</last-name>
+      </author>
+      <book-title>Test Book</book-title>
+      <lang>en</lang>
+    </title-info>
+    <publish-info>
+      <book-name>Test Book</book-name>
+      <publisher>Test Publisher</publisher>
+      <year>2022</year>
+    </publish-info>
+  </description>
+  <body>
+    <title>Chapter 1</title>
+    <section>
+      <p>This is a test book in FB2 format.</p>
+    </section>
+  </body>
+</fictionbook>
